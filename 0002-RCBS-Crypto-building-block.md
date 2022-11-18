@@ -3,6 +3,7 @@
 * Author(s): Alessandro Segala (@ItalyPaleAle)
 * State: POC implemented (dapr/dapr#5429 and dapr/components-contrib#2237)
 * Updated: 2022-11-16
+* Test
 
 ## Overview
 
